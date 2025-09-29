@@ -15,8 +15,15 @@ The project is developed to analyze and forecast customer behavior using data-dr
 3. Optimize marketing spend through data-driven insights.  
 4. Leverage customer feedback to refine engagement strategies.  
 
+## Snapshot
+<p align="center">
+  <b>Dashboard Preview</b><br>
+  <img src="snapshot.png" alt="Dashboard Preview" width="500"/>
+</p>
+
 ## Key Performance Indicators (KPIs)  
 - **Conversion Rate**: Percentage of website visitors who make a purchase.  
 - **Customer Engagement Rate**: Level of interaction with marketing content (clicks, likes, comments).  
 - **Average Order Value (AOV)**: Average amount spent by a customer per transaction.  
-- **Customer Feedback Score**: Average rating from customer reviews.  
+- **Customer Feedback Score**: Average rating from customer reviews.
+
