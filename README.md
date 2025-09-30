@@ -26,3 +26,6 @@ The project is developed to analyze and forecast customer behavior using data-dr
 - **Average Order Value (AOV)**: Average amount spent by a customer per transaction.  
 - **Customer Feedback Score**: Average rating from customer reviews.
 
+## Created By (FY):
+- Biprajeet Sen 
+- Amritangshu Dey
